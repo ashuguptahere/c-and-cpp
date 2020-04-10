@@ -1,7 +1,7 @@
 #include<iostream>
 #include<stdlib.h>
 using namespace std;
-int cost[10][10],i,j,k,n,qu[10],front,rare,v,visit[10],visited[10];
+int cost[10][10], i, j, k, n, qu[10], front, rare, v, visit[10], visited[10];
 int main()
 {
     int m;
