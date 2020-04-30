@@ -1,2 +1,2 @@
 # CPP
-C++ Codes
+C and C++ Codes
